@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sayvai-graph-agents"
+name = "kutty_ai"
 version = "0.0.1"
 description = "A project"
 authors = ["Sanjaypranav <sanjaypriya195@.com>"]
